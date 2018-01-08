@@ -11,8 +11,12 @@ function destructivelyAddElementToBeginningOfArray(array ,element){
   return array
 }
 
-function addElementToEndOfArray (){
-  
+function addElementToEndOfArray(array ,element){
+  let newArray= [...array,element]
+  return newArray
 }
 
-function 
+function destructivelyAddElementToEndOfArray(array ,element){
+  array = [...array, element]
+  return array
+}
