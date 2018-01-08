@@ -1,1 +1,1 @@
-let chocolateBars = [snickers, ]
+let chocolateBars = ["snickers" ,"hundred grand" ,"kitkat" ,"skittles"]
