@@ -1,1 +1,1 @@
-let chocolateBars = []
+let chocolateBars = [chocolateBars, ]
